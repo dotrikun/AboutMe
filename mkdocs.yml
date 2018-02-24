@@ -1,0 +1,17 @@
+site_name: dotrikunのページ
+site_author: 'Hiroshi Shikata'
+
+# Documentation and theme
+docs_dir: docs
+theme: material
+
+# fontawesome
+markdown_extensions: 
+  - fontawesome_markdown
+
+extra_css: 
+  - https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+
+
+
+
