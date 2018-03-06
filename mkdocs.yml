@@ -6,12 +6,11 @@ docs_dir: docs
 theme: material
 
 # fontawesome
-markdown_extensions: 
+markdown_extensions:
   - fontawesome_markdown
 
-extra_css: 
+extra_css:
   - https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
 
-
-
-
+extra_javascript:
+    - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML
